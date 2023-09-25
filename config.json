@@ -1,0 +1,20 @@
+{
+    "mainGuild": "",
+    "db": {
+        "host": "localhost",
+        "name": "",
+        "user": "root",
+        "pass": "",
+        "dialect": "mysql"
+    },
+    "rolesCfg":{
+        "roleOwner": "",
+        "roleAprovador": ""
+    },
+    "status":{
+        "ip": "",
+        "porta": ""
+    }
+}
+
+
